@@ -1,1 +1,1 @@
-worker: py qrbot.py
+worker: python qrbot.py
